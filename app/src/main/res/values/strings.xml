@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">brainly</string>
+    <string name="brainly">BRAINLY</string>
+    <string name="start">start!</string>
+    <string name="mainimage">mainimage</string>
+    <string name="correct">Correct!</string>
+    <string name="challenge_yourself">Challenge Yourself</string>
+</resources>
